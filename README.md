@@ -6,7 +6,7 @@ All data used in this paper can be accessed through the link below:
 Despite great interest in land use mix and the set of benefits that it supposedly provides, there still is a gap in the understanding of how land uses interact to promote urban vitality.   This article examines land use from a temporal perspective, analysing both the frequency of visits throughout the day and the average duration of visits. The results show that even land uses in the same conventional functional category have different daily visitation patterns. Furthermore, the temporal combination and complementarity of some land uses seemed to directly influence the intensity and distribution of urban life.
 
 ## Links
-- Full article (soon).
+- Full article: https://doi.org/10.1080/13574809.2023.2280272.
 - [Urbanidades Research Group](http://urbanidades.ufsc.br/)
 - [City Science Group](https://cityscience.group/)
 
